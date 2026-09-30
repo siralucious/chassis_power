@@ -1,0 +1,16 @@
+# Never commit Intersight API credentials
+*SecretKey*
+*secret_key*
+*.pem
+*api_key*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS
+.DS_Store
